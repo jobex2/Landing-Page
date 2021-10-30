@@ -35,8 +35,8 @@ a {
     padding: 48px 200px;
     display: flex;
     align-items: top;
-    justify-content:space-between;
-    gap: 16px;
+    justify-content:center;
+    gap: 50px;
 }
 
 .banner button {
@@ -70,8 +70,8 @@ h2 {
 
 .images {
     display: flex;
-    justify-content: space-evenly;
-    gap: 32px;
+    justify-content: center;
+    gap: 50px;
     margin: 30px 0px;
 }
 
